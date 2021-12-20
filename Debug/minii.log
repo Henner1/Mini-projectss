@@ -1,0 +1,3 @@
+﻿  miniproject.cpp
+F:\coder\ngaa\minii\miniproject.cpp(50): warning C4715: 'findByName': not all control paths return a value
+  minii.vcxproj -> F:\coder\ngaa\Debug\minii.exe
